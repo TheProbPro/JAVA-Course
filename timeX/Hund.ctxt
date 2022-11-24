@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hund
+comment1.params=etN\ enL\ sK
+comment1.target=Hund(java.lang.String,\ java.lang.String,\ Dato)
+comment2.params=
+comment2.target=Dato\ getSidstKlippet()
+comment3.params=
+comment3.target=java.lang.String\ givLyd()
+numComments=4

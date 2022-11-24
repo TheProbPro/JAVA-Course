@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Maleri
+comment1.params=enT\ etA\ enL\ enB\ enR
+comment1.target=Maleri(java.lang.String,\ int,\ int,\ int,\ Museum)
+comment2.params=
+comment2.target=Museum\ getMuseum()
+comment3.params=
+comment3.target=int\ getLaengde()
+comment4.params=
+comment4.target=int\ getBredde()
+numComments=5

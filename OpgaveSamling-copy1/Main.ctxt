@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ entotre()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=boolean\ Communications()
+comment5.params=ip\ port
+comment5.target=void\ RobCli(java.lang.String,\ int)
+numComments=6

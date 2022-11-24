@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Forbruger
+comment1.params=
+comment1.target=Forbruger()
+comment2.params=forbrugerNavn\ etMaalerNr\ etMaalerMax
+comment2.target=Forbruger(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getMaalerNr()
+comment4.params=forbrugerNavn
+comment4.target=void\ setNavn(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNavn()
+comment6.params=aflaesning
+comment6.target=void\ aflaesMaaler(int)
+comment7.params=
+comment7.target=int\ getForrigeAflaesning()
+comment8.params=
+comment8.target=int\ beregnForbrug()
+numComments=9

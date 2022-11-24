@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bil
+comment1.params=etR\ enA
+comment1.target=Bil(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getRegNr()
+comment3.params=
+comment3.target=int\ getAargang()
+numComments=4

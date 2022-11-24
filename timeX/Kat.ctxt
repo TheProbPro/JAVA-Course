@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kat
+comment1.params=etN\ enL
+comment1.target=Kat(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getAntalMusFanget()
+comment3.params=
+comment3.target=void\ musFanget()
+comment4.params=
+comment4.target=java.lang.String\ givLyd()
+numComments=5

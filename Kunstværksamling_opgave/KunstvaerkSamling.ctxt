@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KunstvaerkSamling
+comment1.params=
+comment1.target=KunstvaerkSamling()
+comment2.params=maleri
+comment2.target=void\ add(Kunstvaerk)
+comment3.params=
+comment3.target=void\ findSangeMedFlereKomponister()
+comment4.params=museum
+comment4.target=void\ findMalerierPaaMuseum(java.lang.String)
+comment5.params=
+comment5.target=void\ beregnAntalSiderLaest()
+numComments=6

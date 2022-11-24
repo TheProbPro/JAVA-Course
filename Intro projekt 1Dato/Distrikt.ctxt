@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Distrikt
+comment1.params=
+comment1.target=Distrikt()
+comment2.params=etNavn\ prisPrKubikmeter
+comment2.target=Distrikt(java.lang.String,\ double)
+comment3.params=nyForbruger
+comment3.target=void\ setForbruger(Forbruger)
+comment4.params=maalerNr
+comment4.target=double\ afregnForbrug(int)
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StringTokenizer
+comment1.params=source
+comment1.target=StringTokenizer(java.lang.String)
+comment2.params=source\ delimiters
+comment2.target=StringTokenizer(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getString()
+comment4.params=tegn
+comment4.target=boolean\ isDelimiter(char)
+comment5.params=
+comment5.target=boolean\ hasMoreTokens()
+comment6.params=
+comment6.target=java.lang.String\ nextToken()
+comment7.params=delimiters
+comment7.target=java.lang.String\ nextToken(java.lang.String)
+comment8.params=
+comment8.target=int\ countTokenz()
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=etN\ enF
+comment1.target=Person(java.lang.String,\ Dato)
+comment2.params=
+comment2.target=int\ getAarFoedt()
+comment3.params=
+comment3.target=java.lang.String\ getNavn()
+comment4.params=
+comment4.target=void\ skrivNavn()
+comment5.params=
+comment5.target=void\ skrivNavn2()
+comment6.params=
+comment6.target=Bil\ getBilen()
+comment7.params=enB
+comment7.target=void\ addBil(Bil)
+numComments=8

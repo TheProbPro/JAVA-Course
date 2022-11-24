@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=OpgaverMedArrays
+comment1.params=
+comment1.target=OpgaverMedArrays()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printStringArray()
+comment3.params=myInts
+comment3.target=void\ printIntegerArray(int[])
+comment4.params=myInts
+comment4.target=int\ sumOfArray(int[])
+comment5.params=myInts
+comment5.target=int\ averageOfArray(int[])
+comment6.params=myInts
+comment6.target=int\ maxOfArray(int[])
+comment7.params=myInts
+comment7.target=void\ sortArray(int[])
+comment8.params=a\ b
+comment8.target=void\ addMatrices(int[][],\ int[][])
+comment9.params=m
+comment9.target=void\ printMatrix(int[][])
+numComments=11
